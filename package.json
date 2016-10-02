@@ -1,0 +1,20 @@
+{
+  "name": "frozen-berry-yogurt-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "author": "Giuseppe Bandiera",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "synthwave",
+    "outrun",
+    "80s",
+    "eighties"
+  ],
+  "repository": "https://github.com/atom/frozen-berry-yogurt-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
