@@ -5,13 +5,13 @@
 An outrun/synthwave inspired theme meant to be easy on the eyes and to preserve the feel of One Dark syntax theme.
 
 ### Screenshots
-<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/javascript.png" alt="Javascript example" width="778px" height="486px"></p>
+<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/javascript.png" alt="Javascript example" width="778px" height="626px"></p>
 
-<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/react.png" alt="React example" width="778px" height="486px"></p>
+<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/react.png" alt="React example" width="778px" height="570px"></p>
 
-<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/scss.png" alt="SASS/SCSS example" width="778px" height="486px"></p>
+<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/scss.png" alt="SASS/SCSS example" width="778px" height="647px"></p>
 
-<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/python.png" alt="Python example" width="778px" height="486px"></p>
+<p align="center"><img src="https://github.com/giuband/frozen-berry-yogurt-syntax/raw/master/assets/python.png" alt="Python example" width="778px" height="590px"></p>
 
 ### Supported languages
 * CSS / Less / SASS / SCSS
